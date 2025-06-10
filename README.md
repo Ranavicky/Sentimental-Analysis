@@ -1,6 +1,3 @@
-# Sentimental-Analysis
-
-
 # Sentiment Analysis Model
 
 ## 1. Data Preprocessing Steps
